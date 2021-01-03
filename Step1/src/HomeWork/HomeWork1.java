@@ -39,10 +39,10 @@ public class HomeWork1 {
 			rating = "C-";
 		} else if (score>=0 && 69>=score) {
 			rating = "D";
-		} else {
-			System.out.println("잘못 입력 하셨습니다.");
-		}
-		System.out.printf("%d점 이므로 당신의 등급은 : %s 입니다.",score,rating);
+		} /*
+			 * else { System.out.println("잘못 입력 하셨습니다."); }
+			 */
+		System.out.print(rating);
 		sc.close();
 	}
 }
