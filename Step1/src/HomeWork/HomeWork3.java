@@ -1,6 +1,6 @@
-package Shstep1;
+package HomeWork;
 
-public class Array2 {
+public class HomeWork3 {
 	public static void main(String[] args) {
 		int[] ArrNum = new int[9];
 		
@@ -16,4 +16,5 @@ public class Array2 {
 			System.out.println(ArrNum[z]);
 		}
 	}
+
 }
