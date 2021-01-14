@@ -1,4 +1,4 @@
-package Shstep1;
+package Shstep1.If;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Shstep1;
+package Shstep1.Array;
 
 public class Array4 {
 	public static void main(String[] args) {

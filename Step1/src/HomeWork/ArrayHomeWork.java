@@ -1,4 +1,4 @@
-package Shstep1;
+package HomeWork;
 
 import java.util.Scanner;
 

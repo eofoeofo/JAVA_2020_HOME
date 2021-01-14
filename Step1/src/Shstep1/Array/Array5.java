@@ -1,4 +1,4 @@
-package Shstep1;
+package Shstep1.Array;
 
 import java.util.Arrays;
 
