@@ -9,13 +9,13 @@ package Shstep1;
 //	2. 기능(메소드)
 //	1) ChannelUp() : 1 증가
 //	2) ChannelDown() : 1 감소
-
+// 클래스
 class Tv {
 	String brand;
 	String color;
 	int price;
 	int channel;
-	
+// 메소드
 	void channelUp() {
 		channel++;
 	}
